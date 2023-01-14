@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, mobile development and blockchain. 
 - 🌱 I’m currently learning mern stack and android development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... asadmughal1785@gmail.com
 
 <!---
 Muhammad-Asad-Mughal/Muhammad-Asad-Mughal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
