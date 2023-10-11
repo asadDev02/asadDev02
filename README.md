@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... asadmughal1785@gmail.com
 
+<figure><embed src="https://wakatime.com/share/@8c571905-cc47-48bc-93f3-97d0ef37fd26/9137ec13-b596-430e-9948-c9e141d2e7fe.svg"></embed></figure>
+
 <a href="https://app.daily.dev/asad-mughal"><img src="https://api.daily.dev/devcards/7b103f16047f42ba98ecd6a7fd962a65.png?r=6qy" width="400" alt="Muhammad Asad's Dev Card"/></a>
 
 <!---
