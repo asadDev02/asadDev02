@@ -1,8 +1,63 @@
-- 👋 Hi, I’m @Muhammad-Asad-Mughal
-- 👀 I’m interested in Web development, mobile development and blockchain. 
-- 🌱 I’m currently learning mern stack and android development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... asadmughal1785@gmail.com
+# Hi there, I'm Muhammad Asad! 👋
+
+## 🚀 About Me
+I'm a passionate Web Developer with a knack for building dynamic and interactive web applications. With expertise in a wide range of technologies, I thrive on creating efficient and innovative solutions.
+
+## 🔧 Technologies & Tools
+
+### Languages:
+- JavaScript
+- TypeScript
+- Java
+- C++
+- C
+- Python
+- Bash
+
+### Frontend Development:
+- React (MERN Stack)
+- Angular
+- Vite
+- Electron JS
+- HTML
+- CSS, Sass, Tailwind, Mantine UI, CSS Modules
+- Bootstrap
+
+### Backend Development:
+- Node.js
+- Express
+- Firebase
+- AWS (Amplify, AppSync, Lambda Functions, etc.)
+- Bun JS
+
+### Database:
+- MongoDB
+- MySQL
+
+### DevOps & Collaboration:
+- GitHub
+- Git
+- Linux
+- Vercel
+- Postman
+
+### Design:
+- Figma
+
+### Blockchain:
+- Solana Metaplex CandyMachine
+
+### IDEs:
+- Visual Studio Code
+- IntelliJ IDEA
+
+## 📫 How to reach me:
+- Linkedin: [Muhammad Asad](https://www.linkedin.com/in/asad--dev/)
+- Email: [asadmughal1785@gmail.com](mailto:asadmughal1785@gmail.com)
+
+---
+
+⭐️ From [Muhammad-Asad-Mughal](https://github.com/Muhammad-Asad-Mughal)
 
 <figure><embed src="https://wakatime.com/share/@8c571905-cc47-48bc-93f3-97d0ef37fd26/9137ec13-b596-430e-9948-c9e141d2e7fe.svg"></embed></figure>
 
