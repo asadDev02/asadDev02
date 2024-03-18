@@ -3,6 +3,8 @@
 ## 🚀 About Me
 I'm a passionate Web Developer with a knack for building dynamic and interactive web applications. With expertise in a wide range of technologies, I thrive on creating efficient and innovative solutions.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Asad-Mughal&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔧 Technologies & Tools
 
 ### Languages:
