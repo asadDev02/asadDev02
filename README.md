@@ -59,9 +59,9 @@ I'm a passionate Web Developer with a knack for building dynamic and interactive
 
 ---
 
-⭐️ From [Muhammad-Asad-Mughal](https://github.com/asadDev02)
+⭐️ From [asadDev02](https://github.com/asadDev02)
 
-<figure><embed src="https://wakatime.com/share/@8c571905-cc47-48bc-93f3-97d0ef37fd26/9137ec13-b596-430e-9948-c9e141d2e7fe.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@8c571905-cc47-48bc-93f3-97d0ef37fd26/fee981a2-5269-40d9-b773-8553fc6e2e9b.svg"></embed></figure>
 
 <a href="https://app.daily.dev/asad-mughal"><img src="https://api.daily.dev/devcards/7b103f16047f42ba98ecd6a7fd962a65.png?r=6qy" width="400" alt="Muhammad Asad's Dev Card"/></a>
 
