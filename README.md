@@ -1,71 +1,21 @@
-# Hi there, I'm Muhammad Asad! 👋
+![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 
-## 🚀 About Me
-I'm a passionate Web Developer with a knack for building dynamic and interactive web applications. With expertise in a wide range of technologies, I thrive on creating efficient and innovative solutions.
+<h1>My Skills</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadDev02&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔧 Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,electron,express,docker,html,css,firebase,arduino,ae,bash,bootstrap,c,cs,cpp,d3,discord,django,figma,gcp,github,git,gmail,ai,idea,java,linkedin,linux,materialui,mongodb,mysql,opencv,postman,powershell,py,regex,tailwind,vercel,vite,vscode,webpack,graphql)](https://skillicons.dev)
 
-### Languages:
-- JavaScript
-- TypeScript
-- Java
-- C++
-- C
-- Python
-- Bash
 
-### Frontend Development:
-- React (MERN Stack)
-- Angular
-- Vite
-- Electron JS
-- HTML
-- CSS, Sass, Tailwind, Mantine UI, CSS Modules
-- Bootstrap
+<h1>My Stats</h1>
 
-### Backend Development:
-- Node.js
-- Express
-- Firebase
-- AWS (Amplify, AppSync, Lambda Functions, etc.)
-- Bun JS
+[![Asad's GitHub stats](https://github-readme-stats-xi-jet-47.vercel.app/api?username=asadDev02)](https://github.com/asadDev02/github-readme-stats)
 
-### Database:
-- MongoDB
-- MySQL
+[![Top Langs](https://github-readme-stats-xi-jet-47.vercel.app/api/top-langs/?username=asadDev02)](https://github.com/asadDev02/github-readme-stats)
 
-### DevOps & Collaboration:
-- GitHub
-- Git
-- Linux
-- Vercel
-- Postman
+[![Asad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadDev02)](https://github.com/asadDev02/github-readme-stats)
 
-### Design:
-- Figma
+https://github-readme-stats-xi-jet-47.vercel.app/
 
-### Blockchain:
-- Solana Metaplex CandyMachine
+<h1>Quote</h1>
 
-### IDEs:
-- Visual Studio Code
-- IntelliJ IDEA
-
-## 📫 How to reach me:
-- Linkedin: [Muhammad Asad](https://www.linkedin.com/in/asad--dev/)
-- Email: [asadmughal1785@gmail.com](mailto:asadmughal1785@gmail.com)
-
----
-
-⭐️ From [asadDev02](https://github.com/asadDev02)
-
-<figure><embed src="https://wakatime.com/share/@8c571905-cc47-48bc-93f3-97d0ef37fd26/fee981a2-5269-40d9-b773-8553fc6e2e9b.svg"></embed></figure>
-
-<a href="https://app.daily.dev/asad-mughal"><img src="https://api.daily.dev/devcards/7b103f16047f42ba98ecd6a7fd962a65.png?r=6qy" width="400" alt="Muhammad Asad's Dev Card"/></a>
-
-<!---
-Muhammad-Asad-Mughal/Muhammad-Asad-Mughal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/asadDev02/github-readme-stats)
