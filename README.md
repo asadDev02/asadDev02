@@ -14,8 +14,6 @@
 
 [![Asad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadDev02)](https://github.com/asadDev02/github-readme-stats)
 
-https://github-readme-stats-xi-jet-47.vercel.app/
-
 <h1>Quote</h1>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/asadDev02/github-readme-stats)
