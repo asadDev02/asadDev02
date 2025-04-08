@@ -8,9 +8,9 @@
 
 <h1>My Stats</h1>
 
-[![Asad's GitHub stats](https://github-readme-stats-xi-jet-47.vercel.app/api?username=asadDev02)](https://github.com/asadDev02/github-readme-stats)
+[![Asad's GitHub stats](https://github-readme-stats-lilac-kappa-94.vercel.app/api?username=asadDev02)](https://github.com/asadDev02/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-xi-jet-47.vercel.app/api/top-langs/?username=asadDev02)](https://github.com/asadDev02/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lilac-kappa-94.vercel.app/api/top-langs/?username=asadDev02)](https://github.com/asadDev02/github-readme-stats)
 
 [![Asad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadDev02)](https://github.com/asadDev02/github-readme-stats)
 
