@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats-lilac-kappa-94.vercel.app/api/top-langs/?username=asadDev02&theme=github_dark&show_icons=true)]([https://github.com/asadDev02/github-readme-stats](https://github-readme-stats-lilac-kappa-94.vercel.app/api/top-langs/?username=asadDev02&theme=github_dark&show_icons=true))
 
-[![Asad's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadDev02&theme=github_dark&show_icons=true)]([https://github.com/asadDev02/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadDev02&theme=github_dark&show_icons=true))
+[![Asad's WakaTime stats](https://github-readme-stats-lilac-kappa-94.vercel.app/api/wakatime?username=asadDev02&theme=github_dark&show_icons=true)]([https://github.com/asadDev02/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=asadDev02&theme=github_dark&show_icons=true))
 
 <h1>Quote</h1>
 
