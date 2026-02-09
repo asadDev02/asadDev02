@@ -16,4 +16,4 @@
 
 <h1>Quote</h1>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/asadDev02/github-readme-stats)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
